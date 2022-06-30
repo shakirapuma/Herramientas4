@@ -9,7 +9,8 @@ public class H4github {
         // TODO code application logic here
         int x =4;
         int y =5;
-        int suma = x+y;
+       int z =6;
+        int suma = x+y+z;
         System.out.println("la suma es:"+suma);
     }
     
